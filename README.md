@@ -54,3 +54,6 @@ The training process includes three stages: Firstly, we trained the scene reconv
 
 ## Acknowledgments
 This code borrows heavily from [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+
+## TOP Acknowledgments
+This code totally copy from [DeepRelight](https://github.com/WangLiwen1994/DeepRelight), which is just for showing the relighting code running and weihu.
